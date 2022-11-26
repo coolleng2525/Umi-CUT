@@ -1,5 +1,6 @@
 # 通过 pyinstaller 打包为 exe
-
+# pip install opencv-python
+# pip install Pillow
 import os
 
 dirPath = os.getcwd()

@@ -1,0 +1,6 @@
+build
+dist
+asset
+*.exe
+*.spec
+Umi-OCR_config.json
